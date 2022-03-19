@@ -1,7 +1,7 @@
 # jQuery serialselect - A label inside the select
 
 ## About jQuery serialselect
-For some (very specific) UX cases, there is a need to insert the label inside the select, this lightweight plugin will do it in only a few lines of code. Note that jQuery serialselect is shared for inspirational and development purpose.
+For some (very specific) UX cases, there is a need for inserting the label inside the select, this lightweight plugin will do it in only a few lines of code. Note that jQuery serialselect is shared for inspirational and development purpose.
 
 
 ## Demonstration
